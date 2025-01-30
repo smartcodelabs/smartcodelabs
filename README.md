@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smartcodelabs" alt="smartcodelabs" /></a> </p>
 
-- 🌱 I’m currently learning **Fachinformatikerin für Anwendungsentwicklung**
+- 🌱 I’m currently learning **IT Specialist for Application Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
